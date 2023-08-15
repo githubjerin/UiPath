@@ -8098,15 +8098,15 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\JerinBS\\.nuget\\packages\\": {}
+    "C:\\Users\\YAZHINI\\.nuget\\packages\\": {}
   },
   "project": {
     "restore": {
       "projectUniqueName": "if assign",
       "projectName": "if assign",
-      "projectPath": "C:\\Users\\JerinBS\\Documents\\UiPath\\Public\\if assign\\.local",
-      "packagesPath": "C:\\Users\\JerinBS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\JerinBS\\Documents\\UiPath\\Public\\if assign\\.local"
+      "projectPath": "C:\\Users\\YAZHINI\\Documents\\UiPath\\public\\if assign\\.local",
+      "packagesPath": "C:\\Users\\YAZHINI\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\YAZHINI\\Documents\\UiPath\\public\\if assign\\.local"
     },
     "frameworks": {
       "net461": {
