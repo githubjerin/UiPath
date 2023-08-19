@@ -20949,15 +20949,15 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\YAZHINI\\.nuget\\packages\\": {}
+    "C:\\Users\\JerinBS\\.nuget\\packages\\": {}
   },
   "project": {
     "restore": {
       "projectUniqueName": "Starting Brower",
       "projectName": "Starting Brower",
-      "projectPath": "C:\\Users\\YAZHINI\\Documents\\UiPath\\Starting Brower\\.local",
-      "packagesPath": "C:\\Users\\YAZHINI\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\YAZHINI\\Documents\\UiPath\\Starting Brower\\.local"
+      "projectPath": "C:\\Users\\JerinBS\\Documents\\UiPath\\Public\\Starting Brower\\.local",
+      "packagesPath": "C:\\Users\\JerinBS\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\JerinBS\\Documents\\UiPath\\Public\\Starting Brower\\.local"
     },
     "frameworks": {
       "net6.0-windows7.0": {
